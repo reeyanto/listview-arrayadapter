@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="days_in_a_week">Days in a week</string>
+</resources>
